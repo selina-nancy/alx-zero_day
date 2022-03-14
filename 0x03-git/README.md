@@ -1,6 +1,7 @@
 My new readme.
 
 This file is mandatory
+
 A branch is like a copy of your project. It’s used mainly for:
 
 adding a feature in development
